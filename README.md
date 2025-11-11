@@ -1,4 +1,4 @@
-# rama-shortner
+# hej
 
 Tool to shorten URL (Uniform Resource Locator)
 
